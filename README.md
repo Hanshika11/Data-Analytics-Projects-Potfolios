@@ -9,3 +9,7 @@ Market Analysis is a popular SQL Projects in  Data Science. It is often asked to
 
 The problem of product sales analysis is a popular SQl in Data Science. It involves analyzing product sales and identifying top-selling products based on total revenue.  through Product Sales Analysis using SQL.
 
+
+# Wearther Forecasting
+Weather forecasting is the task of forecasting weather conditions for a given location and time. With the use of weather data and algorithms, it is possible to predict weather conditions for the next n number of days. I hope you liked this article on Weather Analysis and Forecasting using Python. 
+
